@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    }
+]

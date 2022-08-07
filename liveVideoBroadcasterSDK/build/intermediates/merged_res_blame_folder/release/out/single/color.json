@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_secondary_text_material_dark.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_hint_foreground_material_light.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_btn_stroke_color_selector.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/switch_thumb_material_dark.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_chip_text_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_text_btn_text_color_selector.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_tabs_icon_color_selector.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/design_error.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/design_error.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_primary_text_material_dark.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_btn_text_btn_ripple_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/switch_thumb_material_light.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_tabs_ripple_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_hint_foreground_material_dark.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_chip_background_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_bottom_nav_item_tint.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_chip_ripple_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_search_url_text.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_btn_ripple_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_tabs_colored_ripple_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_btn_text_color_selector.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_chip_close_icon_tint.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_fab_ripple_color.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_primary_text_material_light.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/mtrl_btn_bg_color_selector.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color/mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color/abc_secondary_text_material_light.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color/abc_secondary_text_material_light.xml"
+    }
+]

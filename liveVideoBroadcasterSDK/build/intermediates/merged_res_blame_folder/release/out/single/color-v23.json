@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_tint_default.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_tint_edittext.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_color_highlight_material.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/design_tint_password_toggle.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_tint_spinner.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/color-v23/abc_tint_switch_track.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1:/color-v23/abc_tint_switch_track.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/mtrl_chip_state_list_anim.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/design_fab_show_motion_spec.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/design_fab_hide_motion_spec.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/mtrl_btn_state_list_anim.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    }
+]

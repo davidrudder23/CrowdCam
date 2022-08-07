@@ -1,0 +1,15 @@
+io.antmedia.android.liveVideoBroadcasterSDK-cardview-1.0.0-0 /home/drig/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/res
+io.antmedia.android.liveVideoBroadcasterSDK-appcompat-1.0.0-1 /home/drig/.gradle/caches/transforms-3/392f1217dc4e6064a586554744d96ebb/transformed/appcompat-1.0.0/res
+io.antmedia.android.liveVideoBroadcasterSDK-recyclerview-1.0.0-2 /home/drig/.gradle/caches/transforms-3/432b59597548faa8e170bdfcf256215f/transformed/recyclerview-1.0.0/res
+io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3 /home/drig/.gradle/caches/transforms-3/59b2b8aa966ca0505256a3e2c67b2462/transformed/material-1.0.0/res
+io.antmedia.android.liveVideoBroadcasterSDK-transition-1.0.0-4 /home/drig/.gradle/caches/transforms-3/5ed3d63189e1465c2d1fe23cfae2a359/transformed/transition-1.0.0/res
+io.antmedia.android.liveVideoBroadcasterSDK-core-1.0.0-5 /home/drig/.gradle/caches/transforms-3/93a41d19394d333bea3fe4647f26a496/transformed/core-1.0.0/res
+io.antmedia.android.liveVideoBroadcasterSDK-coordinatorlayout-1.0.0-6 /home/drig/.gradle/caches/transforms-3/993343e821476bcd1840e4c689eca50e/transformed/coordinatorlayout-1.0.0/res
+io.antmedia.android.liveVideoBroadcasterSDK-pngs-7 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/build/generated/res/pngs/release
+io.antmedia.android.liveVideoBroadcasterSDK-resValues-8 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/build/generated/res/resValues/release
+io.antmedia.android.liveVideoBroadcasterSDK-rs-9 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/build/generated/res/rs/release
+io.antmedia.android.liveVideoBroadcasterSDK-mergeReleaseResources-10 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.antmedia.android.liveVideoBroadcasterSDK-mergeReleaseResources-11 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.antmedia.android.liveVideoBroadcasterSDK-merged_res-12 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/build/intermediates/merged_res/release
+io.antmedia.android.liveVideoBroadcasterSDK-main-13 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/src/main/res
+io.antmedia.android.liveVideoBroadcasterSDK-release-14 /home/drig/src/CrowdCam/liveVideoBroadcasterSDK/src/release/res

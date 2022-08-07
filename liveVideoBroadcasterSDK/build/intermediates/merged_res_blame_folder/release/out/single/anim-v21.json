@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "io.antmedia.android.liveVideoBroadcasterSDK-merged_res-11:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "io.antmedia.android.liveVideoBroadcasterSDK-material-1.0.0-3:/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
