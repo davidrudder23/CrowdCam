@@ -22,6 +22,7 @@ import com.google.android.material.snackbar.Snackbar;
 import io.antmedia.android.broadcaster.ILiveVideoBroadcaster;
 import io.antmedia.android.broadcaster.LiveVideoBroadcaster;
 import io.antmedia.android.broadcaster.utils.Resolution;
+import org.noses.crowdcam.R;
 
 import java.util.ArrayList;
 import java.util.Timer;
@@ -84,7 +85,7 @@ public class LiveVideoBroadcasterActivity extends AppCompatActivity {
         //this makes service do its job until done
         startService(mLiveVideoBroadcasterServiceIntent);
 
-        setContentView(R.layout.activity_live_video_broadcaster);
+        setContentView(R.layout.activity_main);
 
         mTimerHandler = new TimerHandler();
         mStreamNameEditText = (EditText) findViewById(R.id.stream_name_edit_text);
@@ -120,6 +121,7 @@ public class LiveVideoBroadcasterActivity extends AppCompatActivity {
     @Override
     public void onRequestPermissionsResult(int requestCode,
                                            String permissions[], int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         switch (requestCode) {
             case LiveVideoBroadcaster.PERMISSIONS_REQUEST: {
                 if (mLiveVideoBroadcaster.isPermissionGranted()) {

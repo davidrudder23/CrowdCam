@@ -31,7 +31,6 @@ android {
 }
 
 dependencies {
-    implementation project(path: ':liveVideoBroadcasterSDK')
 
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
@@ -39,6 +38,8 @@ dependencies {
     implementation 'androidx.navigation:navigation-fragment:2.3.5'
     implementation 'androidx.navigation:navigation-ui:2.3.5'
     implementation 'com.google.android.exoplayer:exoplayer:r2.3.1'
+
+    implementation project(path: ':liveVideoBroadcasterSDK')
 
 // https://mavenlibs.com/maven/dependency/io.antmedia/ant-media-server
     testImplementation 'junit:junit:4.13.2'

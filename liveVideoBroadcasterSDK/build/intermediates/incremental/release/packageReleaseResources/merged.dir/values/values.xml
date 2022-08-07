@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_doesnot_work_without_permissions">App does not work without permissions. Please give Camera and Record Audio permission on app settings</string>
-    <string name="app_name">LiveVideoPublishSDK</string>
+    <string name="app_name">CrowdCam</string>
     <string name="broadcast_connection_lost">Connection to media server is lost</string>
     <string name="camera_not_running_properly">Camera is not running properly</string>
     <string name="camera_permission_is_required">Camera permission is required to run this app</string>
