@@ -2,10 +2,11 @@ package org.noses.crowdcam;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
-import org.noses.crowdcam.liveVideoBroadcaster.LiveVideoBroadcasterActivity;
+import org.noses.crowdcam.liveVideoBroadcaster.*;
 
 public class MainActivity extends AppCompatActivity {
 

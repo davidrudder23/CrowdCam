@@ -12,7 +12,6 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 import io.antmedia.android.broadcaster.utils.Resolution;
-import org.noses.crowdcam.R;
 
 import java.util.ArrayList;
 

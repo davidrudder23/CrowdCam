@@ -22,7 +22,6 @@ import com.google.android.material.snackbar.Snackbar;
 import io.antmedia.android.broadcaster.ILiveVideoBroadcaster;
 import io.antmedia.android.broadcaster.LiveVideoBroadcaster;
 import io.antmedia.android.broadcaster.utils.Resolution;
-import org.noses.crowdcam.R;
 
 import java.util.ArrayList;
 import java.util.Timer;
@@ -89,9 +88,10 @@ public class LiveVideoBroadcasterActivity extends AppCompatActivity {
 
         mTimerHandler = new TimerHandler();
         mStreamNameEditText = (EditText) findViewById(R.id.stream_name_edit_text);
+        Log.d("drig", "initializing mStreamNameEditText="+mStreamNameEditText);
 
         mRootView = (ViewGroup)findViewById(R.id.root_layout);
-        Log.i("drig", "initializing mRootView="+mRootView);
+        Log.d("drig", "initializing mRootView="+mRootView);
         mSettingsButton = (ImageButton)findViewById(R.id.settings_button);
         mStreamLiveStatus = (TextView) findViewById(R.id.stream_live_status);
 
