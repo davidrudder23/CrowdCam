@@ -84,7 +84,7 @@ public class LiveVideoBroadcasterActivity extends AppCompatActivity {
         //this makes service do its job until done
         startService(mLiveVideoBroadcasterServiceIntent);
 
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_live_video_broadcaster);
 
         mTimerHandler = new TimerHandler();
         mStreamNameEditText = (EditText) findViewById(R.id.stream_name_edit_text);
