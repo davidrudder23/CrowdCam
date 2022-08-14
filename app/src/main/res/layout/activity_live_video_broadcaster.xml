@@ -2,7 +2,7 @@
                                                      xmlns:tools="http://schemas.android.com/tools"
                                                      android:layout_width="match_parent"
                                                      android:layout_height="match_parent"
-                                                     tools:context="org.noses.crowdcam.liveVideoBroadcaster.LiveVideoBroadcasterActivity"
+                                                     tools:context=".LiveVideoBroadcasterActivity"
                                                      android:id="@+id/root_layout">
 
     <!--
@@ -68,6 +68,11 @@
             android:onClick="toggleMute"
             android:src="@drawable/ic_mic_mute_on_24"
             />
+
+        <View
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
 
         <TextView
             android:id="@+id/stream_live_status"

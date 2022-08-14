@@ -91,6 +91,7 @@ public class LiveVideoBroadcasterActivity extends AppCompatActivity {
         mStreamNameEditText = (EditText) findViewById(R.id.stream_name_edit_text);
 
         mRootView = (ViewGroup)findViewById(R.id.root_layout);
+        Log.i("drig", "initializing mRootView="+mRootView);
         mSettingsButton = (ImageButton)findViewById(R.id.settings_button);
         mStreamLiveStatus = (TextView) findViewById(R.id.stream_live_status);
 
@@ -99,6 +100,7 @@ public class LiveVideoBroadcasterActivity extends AppCompatActivity {
         // Configure the GLSurfaceView.  This will start the Renderer thread, with an
         // appropriate EGL activity.
         mGLView = (GLSurfaceView) findViewById(R.id.cameraPreview_surfaceView);
+        Log.i("drig", "initializing mGLView="+mGLView);
         if (mGLView != null) {
             mGLView.setEGLContextClientVersion(2);     // select GLES 2.0
         }
